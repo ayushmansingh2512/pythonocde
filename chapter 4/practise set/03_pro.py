@@ -1,0 +1,5 @@
+a = (1,26,41,85,62,32,68,99,0)
+b = list(a)
+b.sort()
+c = tuple(b)
+print(c)
