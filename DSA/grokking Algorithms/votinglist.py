@@ -11,3 +11,6 @@ check_voter("ayushman")
 check_voter("alice")
 check_voter("ayushman")
 print(voted)
+
+# using hash table as cache
+
